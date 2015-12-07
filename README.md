@@ -2,7 +2,8 @@
 Script filter for Netstat to check the total number of connections(TCP/UDP)
 
 ## Why ?
-Whenever I need to check the total connections (TCP/UDP) with [Netstat](http://linux.die.net/man/8/netstat),
+Whenever I need to check the total connections (TCP/UDP) and
+check the list ips eliminating the repeated with [Netstat](http://linux.die.net/man/8/netstat),
 the command line ends up being too long:
 
 ```
